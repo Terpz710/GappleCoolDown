@@ -1,0 +1,6 @@
+name: GappleCoolDown
+version: 1.0.0
+author: Terpz710
+api: 5.0.0
+main: Terpz710\GappleCoolDown\Main
+description: Adds a cool down to the enchanted golden apple
