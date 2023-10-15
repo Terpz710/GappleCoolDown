@@ -1,6 +1,6 @@
 <?php
 
-namespace Terpz710\GappleCooldown;
+namespace Terpz710\GappleCoolDown;
 
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerItemConsumeEvent;
